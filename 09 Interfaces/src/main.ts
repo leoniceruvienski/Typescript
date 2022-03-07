@@ -34,6 +34,10 @@ function showCity(user: User) {
 
 type UF = 'PR' | 'SP' | 'MG'
 
+
+
+//teste
+
 interface User {
     name: string,
     address: {
