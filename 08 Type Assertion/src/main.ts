@@ -4,3 +4,5 @@ inputName.value
 
 const inputName = document.querySelector('body') 
 inputName.value
+
+//teste
